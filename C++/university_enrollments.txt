@@ -1,0 +1,8 @@
+7
+Mario Rossi Ingegneria_Informatica
+Luca Bianchi Ingegneria_Aerospaziale
+Andrea Neri Ingegneria_Gestionale
+Antonio Giallo Ingegneria_Informatica
+Francesco Verde Ingegneria_Aerospaziale
+Federico Blu Ingegneria_Informatica
+Roberto Marrone Ingegneria_Gestionale
